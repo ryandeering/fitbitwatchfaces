@@ -1,0 +1,10 @@
+<svg class="background">
+  <image x="0" y="0" width="300" height="300" href="us.png" />
+   <text id="timeLabel" />
+  <text id="timeLabel2" />
+  <text id="myMonth" />
+  <text id="myDay" />
+ 
+ 
+</svg>
+

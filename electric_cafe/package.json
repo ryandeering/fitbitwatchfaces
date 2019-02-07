@@ -1,0 +1,21 @@
+{
+  "fitbit": {
+    "appUUID": "53660c14-9f1e-4b30-ab48-1bbacfd1f850",
+    "appType": "clockface",
+    "appDisplayName": "ryan_proj",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "ryan_proj"
+      }
+    }
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~3.0.0"
+  }
+}
